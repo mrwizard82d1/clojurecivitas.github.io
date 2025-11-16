@@ -1,3 +1,15 @@
+
+---
+author:
+- name: Larry Jones
+  url: https://github.com/mrwizard82d1
+type: post
+title: Why Bayesian?
+date: 2025-11-15
+---
+
+# Why Bayesian?
+
 Much of my education and my career has focused on finding "the answer" to problems. However, in the last fifteen years or so, I have discovered Bayes' theorem. This theorem allows not only a true-false answer, but a probability: 70% true **and** 30% false.
 
 As a very young man, I discovered a book on the atom in the library. My reaction to this book was, "**Everything** is made of atoms? That is amazing! I must understand more." I began pursuing and eventually gained a Master's Degree in Physics. 
